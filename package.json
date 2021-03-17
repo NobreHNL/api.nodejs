@@ -1,0 +1,27 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "web api em nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nobrehnl/api.nodejs.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "rest"
+  ],
+  "author": "Hemerson Nobre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nobrehnl/api.nodejs/issues"
+  },
+  "homepage": "https://github.com/nobrehnl/api.nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
